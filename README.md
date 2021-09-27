@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Cruz</h1>
-<h3 align="center">Futuro Desenvolvedor ReactJs</h3>
+<h3 align="center">Futuro Desenvolvedor NodeJs</h3>
 
 - 👨‍💻 All of my projects are available at   https://github.com/Tiago880
 
